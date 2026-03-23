@@ -9,3 +9,6 @@ Personal development log — notes, findings, and ongoing work.
 - Reorganised test fixtures
 - Resolved TODO items from previous session
 - Tested build on clean environment
+
+## 2026-03-23
+- Added basic usage examples to README
